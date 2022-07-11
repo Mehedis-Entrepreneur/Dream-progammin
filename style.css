@@ -1,0 +1,32 @@
+body{
+    margin: 0px;
+}
+.size{
+    width: 100%;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+h1{
+    color: coral;
+}
+.link{
+    text-decoration: none;
+    background-image:linear-gradient(lightsalmon,tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    
+}
+.header{
+    background-image: url(images/header-bg.png);
+    
+    
+}
+section{
+    height: 1000px;
+    padding-bottom: 150px;
+}
